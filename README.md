@@ -1,8 +1,5 @@
 <div align="center">
-  <img width="100%" height="200px" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
-</div>
-
-<div align="center" style="background-image: url('https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png'); background-size: contain; background-repeat: no-repeat; background-position: center; height: 400px;">
+  <img width="100%" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
 </div>
 
 
