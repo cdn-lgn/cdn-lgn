@@ -1,26 +1,104 @@
-<!-- Hey there, I'm Logan! 👋 -->
-# Hey there, I'm Logan! 👋
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EseJKXWvYkzgmhejBMgYBiWv9LPCI3HtOg&usqp=CAU" align="center" style="width: 100%" />
+</div>  
+  
 
-Welcome to my dark corner of the web! I'm passionate about web development, and you'll often find me coding away into the late hours of the night. With a love for ReactJS and a knack for crafting sleek UIs, I'm always exploring new technologies and pushing the boundaries of what's possible.
+### **<div align="center">I'm Logan, a web developer 👨‍💻  🚀</div>**  
+  
 
-## 🔧 Technologies & Tools
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> **Tailwind CSS**: For rapid UI development with utility classes.
-- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> **HTML5**: The foundation of every web page.
-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS**: Adding style and flair to my projects.
-- <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png"/> **ReactJS (Currently Learning)**: Building dynamic and interactive user interfaces.
-- <img src="https://img.icons8.com/color/48/000000/firebase.png"/> **Firebase**: Powering the backend of my web apps with ease.
-- <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python**: Automating tasks and exploring data science.
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript**: Making web pages come alive with interactivity.
-- <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> **Chakra UI**: Building accessible and customizable React components.
-- <img src="https://img.icons8.com/material-sharp/48/000000/material-ui.png"/> **Material UI**: Designing beautiful and responsive UIs effortlessly.
+- 🔭 I’m currently working on ChatApp  
+  
 
-## 📫 Get in Touch
-- **Instagram**: [cdn_lgn](https://www.instagram.com/cdn_lgn/)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **GitHub**: [cdn-lgn](https://github.com/cdn-lgn)
+- 🌱 I’m currently learning ReactJS  
+  
 
-## 🌟 GitHub Stats
-[![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdn-lgn&show_icons=true&theme=dracula)](https://github.com/cdn-lgn)
+- ❓ Love to talk about technologies   
+  
 
-## 🚀 Let's Connect!
-Whether you're interested in collaborating on a project, discussing web development trends, or just want to say hi, feel free to reach out! I'm always up for a coding adventure. 😊
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/cdn-lgn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/cdn_lgn" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdn-lgn&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cdn-lgn&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
