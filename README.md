@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="200px" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
+  <img width="100%" height="200px" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Logan</h1>
