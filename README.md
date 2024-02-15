@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
+  <img width="60%" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
 </div>
 
 
