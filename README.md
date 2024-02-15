@@ -1,9 +1,5 @@
-<div align="center">
-  <img width="60%" object="cover" src="https://candicefdev.github.io/my-startup/pages/assets/img/web_dev.png" />
-
 <h1 align="center">Hi 👋, I'm Logan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdn-lgn&label=Profile%20views&color=0e75b6&style=flat" alt="cdn-lgn" /> </p>
-</div>
 
 - 🔭 I’m currently working on [ChatApp](uploading soon())
 - 🌱 I’m currently learning **ReactJS and DSA**
@@ -36,9 +32,10 @@
 <a href="https://github.com/cdn-lgn">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdn-lgn&theme=vision_friendly_dark" height="180em" />
   <br/>
+  <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cdn-lgn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdn-lgn&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cdn-lgn&theme=2077" height="180em" />
+  <br/>
   <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdn-lgn&theme=vision_friendly_dark" height="180em" />
 </div>
