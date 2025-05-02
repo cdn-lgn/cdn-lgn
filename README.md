@@ -51,7 +51,7 @@
 <h2 align="center">⚡ GitHub Activity Graph</h2>
 <p align="center">
 
-![Logans's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cdn-lgn&bg_color=000000&color=708090&line=00ff00&point=ff0000&area=true&hide_border=true&custom_title=My%20GitHub%20Activity)
+![Logans Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cdn-lgn&bg_color=000000&color=708090&line=00ff00&point=ff0000&area=true&hide_border=true&custom_title=My%20GitHub%20Activity)
 
 </p>
 
