@@ -56,26 +56,3 @@
 </p>
 
 
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cdn-lgn&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-![GitHub Contribution Calendar](https://github.com/cdn-lgn/cdn-lgn/blob/output/github-contribution-grid-snake.svg)
-
-
-
-![Progress](https://progress-bar.dev/50/?title=Learning%20React%20Native)
-
-
-
-![Snake animation](https://github.com/cdn-lgn/cdn-lgn/blob/output/github-contribution-grid-snake.svg)
-
-
-
-![Circle Progress](https://progress-ring.dev/50/?title=JavaScript%20Mastery)
-
-
