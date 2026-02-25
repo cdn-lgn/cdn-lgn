@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=cdn-lgn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on a **Book Exchange Mobile App** (React Native + Expo)
+- 🔭 I’m currently working on a **Book Exchange Mobile App** (React Native)
 - 🌱 I’m improving my skills in **React Native**, animations, performance & clean architecture
 - 💬 Ask me about **ReactJS**, **React Native**, **MERN Stack**, **JavaScript**, **TypeScript**, **Python**
 - 📫 How to reach me: **logan2246t@gmail.com**
@@ -35,16 +35,13 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
